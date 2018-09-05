@@ -1,0 +1,7 @@
+.container {
+	position: absolute;
+	top: 0;
+	right: 1000px;
+	bottom: 1000px;
+	left: 0;
+}
